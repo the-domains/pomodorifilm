@@ -1,0 +1,28 @@
+name: Pomodorifilm
+favicon: null
+layout_spectrum: 0.4962677208241075
+typography_spectrum: 0.7130752140656114
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.8558911965228617
+  lightness: 0.7258705543354154
+  saturation: 0.502001415938139
+  rhythmicContrast: 0.23989367112517357
+purpose: []
